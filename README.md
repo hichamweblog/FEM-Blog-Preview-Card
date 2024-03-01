@@ -26,7 +26,7 @@ This project is a responsive solution to Frontend Mentor's "Blog preview card" c
 
 ### Links
 
-- Solution URL: [FEM-Blog-Preview-Card](https://www.frontendmentor.io/solutions/accessible-faqaccordion-htmlcssjs-N2tEMir52u)
+- Solution URL: [FEM-Blog-Preview-Card](https://www.frontendmentor.io/solutions/responsive-blog-preview-card-htmlcss-IUI00LW7Uy)
 - Live Site URL: [FEM-Blog-Preview-Card](https://dz-blog-preview-card.netlify.app/)
 
 ### Built with

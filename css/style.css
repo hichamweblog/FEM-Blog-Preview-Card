@@ -92,6 +92,7 @@ body {
 
 .card__img {
   margin-bottom: var(--spacing-2);
+  border-radius: 0.625rem;
 }
 
 .card__category {
