@@ -43,9 +43,9 @@ This project is a responsive solution to Frontend Mentor's "Blog preview card" c
 
 1. **Clone the repository**:
 
-   ```git
+```git
    git clone https://github.com/your-username/FEM-Blog-Preview-Card.git
-   ```
+```
 
 2. **Navigate to the Project Folder**:
 
