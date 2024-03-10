@@ -33,6 +33,7 @@ This project is a responsive solution to Frontend Mentor's "Blog preview card" c
 
 - HTML5
 - CSS3
+- JavaScript
 
 ## Key Features
 
